@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 app.use(requestIp.mw());
 
 mongoose.connect(
-      "mongodb+srv://seu_usuario:senha@cluster0.mongodb.net/cluster",
+      "mongodb+srv://tainadreissig14:tainadreissig14@cluster0.mongodb.net/cluster",
       {
             useNewUrlParser: true,
             useUnifiedTopology: true,
